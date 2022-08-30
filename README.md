@@ -12,7 +12,7 @@
 
 I use
 --
-tools
+<p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
@@ -21,9 +21,11 @@ tools
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-plain.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-plain.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-
+</p>
 
 I'm learning
 --
@@ -31,102 +33,66 @@ languages
 ![Dart](https://img.shields.io/badge/dart-%230288d1.svg?logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=cplusplus&logoColor=white)
 
-<!---
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
--->
-
 frameworks
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-%234fc3f7.svg?logo=Flutter&logoColor=white)
-
-<!---
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />" />
--->
+![Flutter](https://img.shields.io/badge/flutter-%234fc3f7.svg?logo=Flutter&logoColor=white)
     
 
 I know
 --
 py
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3-3670A0?logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-3.2-%23092E20.svg?logo=django&logoColor=white)
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-dd2c00?logoColor=white)
-
-<!--
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
--->
 
 java
 ![Kotlin](https://img.shields.io/badge/kotlin-%23512da8.svg?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white)
+![Ktor](https://img.shields.io/badge/ktor-2-%2342a5f5.svg?logoColor=white)
+![Java](https://img.shields.io/badge/java-17-%23ED8B00.svg?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-5-%236DB33F.svg?logo=spring&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-11-%2390a4ae.svg?logo=java&logoColor=white)
+![TornadoFx](https://img.shields.io/badge/tornadofx-%23212121.svg?logo=java&logoColor=white)
 
-<!--
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
--->
+javascript
+![JavaScript ES6](https://img.shields.io/badge/javascript-es6-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Babel](https://img.shields.io/badge/babel-F9DC3e?logo=babel&logoColor=black)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white)
 
 databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23f44336.svg?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23607d8b.svg?logo=mysql&logoColor=white)
 
+platforms
+![Windows 95](https://img.shields.io/badge/windows-95-008484?logo=windows95&logoColor=white)
 <!--
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 -->
 
 other
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-hotpink.svg?logo=SASS&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/bash-%23455a64.svg?logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 
-<!---
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
--->
-
-
 I want
 --
-
 languages
-![Rust](https://img.shields.io/badge/Rust-%233e2723.svg?logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-%234B275F?logo=elixir&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-%231572B6?logo=Clojure&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)
-
-<!---
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-plain-wordmark.svg" />
--->
+![Rust](https://img.shields.io/badge/rust-%233e2723.svg?logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-graphql-E10098?logo=graphql&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F?logo=elixir&logoColor=white)
+![Clojure](https://img.shields.io/badge/clojure-%231572B6?logo=Clojure&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-5e5086?logo=haskell&logoColor=white)
+![Julia](https://img.shields.io/badge/-julia-9558B2?logo=julia&logoColor=white)
 
 frameworks
-![React](https://img.shields.io/badge/React-%23424242.svg?logo=react&logoColor=%2361DAFB)
-![Qt](https://img.shields.io/badge/Qt-%2300c853.svg?logo=Qt&logoColor=white)
-
-<!---
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
--->
+![React](https://img.shields.io/badge/react-%23424242.svg?logo=react&logoColor=%2361DAFB)
+![Qt](https://img.shields.io/badge/qt-%2300c853.svg?logo=Qt&logoColor=white)
 
 databases/brokers
-![Apache Kafka](https://img.shields.io/badge/Kafka-000?logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/kafka-000?logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?logo=rabbitmq&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
-
-
