@@ -45,6 +45,7 @@ py
 ![Python](https://img.shields.io/badge/python-3-3670A0?logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-3.2-%23092E20.svg?logo=django&logoColor=white)
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-dd2c00?logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black)
 
 java
 ![Kotlin](https://img.shields.io/badge/kotlin-%23512da8.svg?logo=kotlin&logoColor=white)
@@ -75,9 +76,13 @@ platforms
 -->
 
 other
+![Swagger](https://img.shields.io/badge/-swagger-%23Clojure?logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/insomnia-black?logo=insomnia&logoColor=5849BE)
 ![SASS](https://img.shields.io/badge/sass-hotpink.svg?logo=SASS&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/bash-%23455a64.svg?logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
+![reStructuredText](https://img.shields.io/badge/reST-%235d4037.svg?logoColor=white)
 
 
 I want
