@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning VueJS, Flutter, Dart and C++
 - ⚡ Fun fact: The first computer “bug” was an actual [real-life bug](https://www.globalapptesting.com/blog/the-worlds-first-computer-bug-global-app-testing)
 
+![email](https://img.shields.io/badge/%63%6F%6E%74%61%63%74%2E%76%79%61%63%68%65%73%6C%61%76%40%67%6D%61%69%6C%2E%63%6F%6D-%23fff?style=flat-square&logo=gmail&logoColor=gray)
+
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyach-vasiliev&layout=compact&langs_count=10&hide=php,apacheconf,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,7 +34,7 @@ I'm learning
 --
 languages
 ![Dart](https://img.shields.io/badge/dart-%230288d1.svg?logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/c++_11/17-%2300599C.svg?logo=cplusplus&logoColor=white)
 
 frameworks
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
@@ -42,21 +44,21 @@ frameworks
 I know
 --
 py
-![Python](https://img.shields.io/badge/python-3-3670A0?logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-3.2-%23092E20.svg?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python_3-3670A0?logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django_3.2-%23092E20.svg?logo=django&logoColor=white)
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-dd2c00?logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black)
 
 java
 ![Kotlin](https://img.shields.io/badge/kotlin-%23512da8.svg?logo=kotlin&logoColor=white)
-![Ktor](https://img.shields.io/badge/ktor-2-%2342a5f5.svg?logoColor=white)
-![Java](https://img.shields.io/badge/java-17-%23ED8B00.svg?logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-5-%236DB33F.svg?logo=spring&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-11-%2390a4ae.svg?logo=java&logoColor=white)
+![Ktor](https://img.shields.io/badge/ktor_2-%2342a5f5.svg?logoColor=white)
+![Java](https://img.shields.io/badge/java_17-%23ED8B00.svg?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring_5-%236DB33F.svg?logo=spring&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx_11-%2390a4ae.svg?logo=java&logoColor=white)
 ![TornadoFx](https://img.shields.io/badge/tornadofx-%23212121.svg?logo=java&logoColor=white)
 
 javascript
-![JavaScript ES6](https://img.shields.io/badge/javascript-es6-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![JavaScript ES6](https://img.shields.io/badge/javascript_es6-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![Babel](https://img.shields.io/badge/babel-F9DC3e?logo=babel&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white)
@@ -70,7 +72,7 @@ databases
 ![MySQL](https://img.shields.io/badge/mysql-%23607d8b.svg?logo=mysql&logoColor=white)
 
 platforms
-![Windows 95](https://img.shields.io/badge/windows-95-008484?logo=windows95&logoColor=white)
+![Windows 95](https://img.shields.io/badge/windows_95-008484?logo=windows95&logoColor=white)
 <!--
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 -->
