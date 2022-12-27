@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning VueJS, Flutter, Dart and C++
-- ⚙️ I use daily: `.py`, `.kt`, `.dart`, `.cpp`, `.js`, `.html`, `.scss`
+- 🎯 I’m currently learning VueJS, Flutter, Dart and C++
+- 🚴 I use daily: `.py`, `.kt`, `.dart`, `.cpp`, `.js`, `.html`, `.scss`
 - ⚡ Fun fact: The first computer “bug” was an actual [real-life bug](https://www.globalapptesting.com/blog/the-worlds-first-computer-bug-global-app-testing)
 
 ![email](https://img.shields.io/badge/%63%6F%6E%74%61%63%74%2E%76%79%61%63%68%65%73%6C%61%76%40%67%6D%61%69%6C%2E%63%6F%6D-%23fff?style=flat-square&logo=gmail&logoColor=gray)
