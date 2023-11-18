@@ -80,9 +80,9 @@ platforms
 
 other
 ![Github CI/CD](https://img.shields.io/badge/CI/CD-000?logo=github)
-![Swagger](https://img.shields.io/badge/-swagger-%23Clojure?logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-green?logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/insomnia-black?logo=insomnia&logoColor=5849BE)
+![Insomnia](https://img.shields.io/badge/insomnia-white?logo=insomnia&logoColor=5849BE)
 ![SASS](https://img.shields.io/badge/sass-hotpink.svg?logo=SASS&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/bash-%23455a64.svg?logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
