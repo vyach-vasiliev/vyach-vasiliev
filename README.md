@@ -46,13 +46,13 @@ I know
 --
 py
 ![Python](https://img.shields.io/badge/python_3-3670A0?logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django_3.2-%23092E20.svg?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-dd2c00?logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black)
 
 java
 ![Kotlin](https://img.shields.io/badge/kotlin-%23512da8.svg?logo=kotlin&logoColor=white)
-![Ktor](https://img.shields.io/badge/ktor_2-%2342a5f5.svg?logoColor=white)
+![Ktor](https://img.shields.io/badge/ktor-%2342a5f5.svg?logoColor=white)
 ![Java](https://img.shields.io/badge/java_17-%23ED8B00.svg?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring_5-%236DB33F.svg?logo=spring&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx_11-%2390a4ae.svg?logo=java&logoColor=white)
@@ -74,11 +74,12 @@ databases
 
 platforms
 ![Windows 95](https://img.shields.io/badge/windows_95-008484?logo=windows95&logoColor=white)
-<!--
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
--->
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker)
+
 
 other
+![Github CI/CD](https://img.shields.io/badge/CI/CD-000?logo=github)
 ![Swagger](https://img.shields.io/badge/-swagger-%23Clojure?logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-black?logo=insomnia&logoColor=5849BE)
