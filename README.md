@@ -34,10 +34,11 @@ I use
 I'm learning
 --
 languages
-![Dart](https://img.shields.io/badge/dart-%230288d1.svg?logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++_11/17-%2300599C.svg?logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230288d1.svg?logo=dart&logoColor=white)
 
 frameworks
+![Qt](https://img.shields.io/badge/qt-%2300c853.svg?logo=Qt&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/flutter-%234fc3f7.svg?logo=Flutter&logoColor=white)
     
@@ -104,7 +105,6 @@ frameworks and builders
 ![Svelte](https://img.shields.io/badge/svelte-fff?logo=svelte)
 ![Vite](https://img.shields.io/badge/vite-f5ef42?logo=vite)
 ![React](https://img.shields.io/badge/react-%23424242.svg?logo=react&logoColor=%2361DAFB)
-![Qt](https://img.shields.io/badge/qt-%2300c853.svg?logo=Qt&logoColor=white)
 
 databases/brokers
 ![Apache Kafka](https://img.shields.io/badge/kafka-000?logo=apachekafka)
