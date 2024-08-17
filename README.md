@@ -32,7 +32,7 @@
 * [Large File Reader](https://large-file-reader.onrender.com/) - View large files (e.g. logs) and even zip archives just in browser. Completely _offline_ and _without server side_.
 * [Easy Video Cutter](https://easy-cut.onrender.com/) - The fastest offline web video trimmer. ~Upload~. Open and cut.
 
-Bonus:
+Bonus
 * [Insta Code](https://insta-code.onrender.com/) - Screencast of code with so beautiful themes in VueJS without Node.
 
   
