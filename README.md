@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hey there! I'm an Qt and Kotlin enthusiast who likes to make some funny app.
 
-- 🎯 I’m currently learning VueJS, Flutter, Dart and C++
+- 🎯 I’m currently learning Svelte, VueJS, Dart and C++
 - 🚴 I use daily: `.py`, `.kt`, `.dart`, `.cpp`, `.js`, `.html`, `.scss`
 - ⚡ Fun fact: The first computer “bug” was an actual [real-life bug](https://www.globalapptesting.com/blog/the-worlds-first-computer-bug-global-app-testing)
 
