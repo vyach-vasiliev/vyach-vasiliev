@@ -62,6 +62,7 @@ languages
 
 frameworks
 ![Qt](https://img.shields.io/badge/qt-%2300c853.svg?logo=Qt&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-fff?logo=svelte)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/vite-f5ef42?logo=vite)
 ![Flutter](https://img.shields.io/badge/flutter-%234fc3f7.svg?logo=Flutter&logoColor=white)
@@ -126,7 +127,6 @@ languages
 ![Julia](https://img.shields.io/badge/-julia-9558B2?logo=julia&logoColor=white)
 
 frameworks and builders
-![Svelte](https://img.shields.io/badge/svelte-fff?logo=svelte)
 ![React](https://img.shields.io/badge/react-%23424242.svg?logo=react&logoColor=%2361DAFB)
 
 databases/brokers
